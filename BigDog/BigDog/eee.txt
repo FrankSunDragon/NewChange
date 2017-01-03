@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>area</key>
+		<string>瓦洛兰 Valoran</string>
+		<key>uid</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>德玛西亚 Demacia</string>
+		<key>uid</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>诺克萨斯 Noxusa</string>
+		<key>uid</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>艾欧尼亚 Ionia</string>
+		<key>uid</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>皮尔特沃夫 Piltover</string>
+		<key>uid</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>弗雷尔卓德 Freijord</string>
+		<key>uid</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>班德尔城 Bandle City</string>
+		<key>uid</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>祖安 Zaun</string>
+		<key>uid</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>卡拉曼达 Kalamand</string>
+		<key>uid</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>蓝焰岛 Blue Flame Island</string>
+		<key>uid</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>哀嚎沼泽 Howling Mars</string>
+		<key>uid</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>艾卡西亚 Icathiad</string>
+		<key>uid</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>洛克法 Lokfar</string>
+		<key>uid</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>塔尔贡山脉 Mountain Targon</string>
+		<key>uid</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>area</key>
+		<string>瘟疫丛林 Plague Jungles</string>
+		<key>uid</key>
+		<integer>15</integer>
+	</dict>
+    <dict>
+        <key>area</key>
+<string>解决问题了吗？如果你调用这个代理方法的话- (void)searchBarTextDidBeginEditing:(UISearchBar *)searchBar
+那么点击搜索框就会进入搜索状态，如果里面有光标的话，那再点击的话，却不能进入代理方法了，so，如果不想进入搜索状态，那么就只用这个代理方法,- (BOOL)searchBarShouldBeginEditing:(UISearchBar *)searchBar</string>
+        <key>uid</key>
+        <integer>16</integer>
+    </dict>
+</array>
+</plist>
