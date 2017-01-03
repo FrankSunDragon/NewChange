@@ -22,6 +22,7 @@
     FDNavigationController * nav = [[FDNavigationController alloc] initWithRootViewController:loginVC];
     self.window.rootViewController = nav;
     [self.window makeKeyAndVisible];
+    NSLog(@"就不告诉你");
     return YES;
 }
 
